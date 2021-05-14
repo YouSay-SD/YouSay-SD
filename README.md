@@ -1,4 +1,3 @@
-![](https://i.pinimg.com/originals/22/4d/b5/224db5f05470946e4c60ca9afea7597f.gif) 
 <!--
 **YouSay-SD/YouSay-SD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
